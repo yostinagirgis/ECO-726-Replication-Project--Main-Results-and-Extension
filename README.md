@@ -6,9 +6,9 @@ General-
 .dta file
 
 Replication-
-.do file 
+.do file and
 .log file
 
 Extension-
-.py file
+.py file and
 .ipynb file (which also links to Google Colab)
