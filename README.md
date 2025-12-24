@@ -1,4 +1,4 @@
-# ECO-726-Replication-Project--Main Results and Extension
+# ECO-726-Replication-Project--Main Results&Extension
 
 Included in this folder: 
 
