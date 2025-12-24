@@ -12,3 +12,6 @@ Replication-
 Extension-
 .py file and
 .ipynb file (which also links to Google Colab)
+
+
+**NOTE: FILE PATH WILL HAVE TO BE CHANGED FOR STATA REPLICATION**
